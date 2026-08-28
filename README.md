@@ -117,10 +117,10 @@ Also part of the university's Algorithmics Club, competed in Ada Byron Regional 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=norapfr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=norapfr&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=norapfr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC&cache_seconds=86400"/>
+<img height="160" src="https://streak-stats.demolab.com?user=norapfr&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norapfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F8FAFC"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norapfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F8FAFC&cache_seconds=86400"/>
 
 <img src="https://raw.githubusercontent.com/norapfr/norapfr/output/github-contribution-grid-snake-dark.svg"/>
 
