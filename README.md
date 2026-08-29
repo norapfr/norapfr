@@ -1,10 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=110&section=header&text=Nora%20Pe%C3%B1aloza%20Friqui&fontSize=32&fontColor=F8FAFC&fontAlignY=60&animation=fadeIn" width="100%"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img alt="Nora Peñaloza Friqui banner" src="./dark.svg" width="100%">
 </picture>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=Software+Engineer;Applied+ML+%2F+NLP+Engineer;Computer+Vision+%2C+from+zero;Open+to+junior+opportunities" alt="Typing SVG"/></a>
+
+![B.Sc. Computer Engineering](https://img.shields.io/badge/B.Sc.-Computer%20Engineering-7C3AED?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-8.41%2F10-22D3EE?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-Seville%2C%20Spain-10B981?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-norapfr.github.io-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://norapfr.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nora-peñaloza-friqui-79879b351)
@@ -117,12 +125,12 @@ Also part of the university's Algorithmics Club, competed in Ada Byron Regional 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=norapfr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC&cache_seconds=86400"/>
-<img height="160" src="https://streak-stats.demolab.com?user=norapfr&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC"/>
+<img height="160" src="./profile/stats.svg"/>
+<img height="160" src="./profile/streak.svg"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norapfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F8FAFC&cache_seconds=86400"/>
+<img src="./profile/top-langs.svg"/>
 
-<img src="https://raw.githubusercontent.com/norapfr/norapfr/output/github-contribution-grid-snake-dark.svg"/>
+<img src="./profile/snake-dark.svg"/>
 
 </div>
 
@@ -133,5 +141,7 @@ Also part of the university's Algorithmics Club, competed in Ada Byron Regional 
 [![Portfolio](https://img.shields.io/badge/Portfolio-norapfr.github.io-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://norapfr.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nora-peñaloza-friqui-79879b351)
 [![Email](https://img.shields.io/badge/npenfriq23%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:npenfriq23@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:22D3EE,100:7C3AED&height=100&section=footer" width="100%"/>
 
 </div>
