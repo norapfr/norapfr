@@ -81,6 +81,11 @@ I like taking things past the notebook stage: training a model is only half the 
 
 ## Projects
 
+### [Volley Predictor](https://github.com/norapfr/volley_predictor) · sports analytics, independent project
+ML system predicting international volleyball results: Elo ratings + CatBoost with walk-forward validation, trained on 6,626 historical matches across 158 national teams. Predicts winner, most likely set score, and point margin through a Streamlit dashboard. Winner accuracy: **72.5%** (men), **76.0%** (women).
+
+`Python` `CatBoost` `FastAPI` `Streamlit`
+
 ### [SocialMindScan](https://github.com/norapfr/SocialMindScan) · Bachelor's Thesis, graded 10/10
 NLP system for detecting depression and suicidal ideation in text. Compared six model families (SVM, KNN, Random Forest, CNN, BiGRU, BERT/SBERT) across two Reddit-derived datasets, then shipped the best ones behind a Django + React app paired with a support chatbot. Best results: **F1 0.893** (CNN + SBERT) for depression, **F1 ≈0.909** (SVM + TF-IDF) for suicidal ideation. Companion app: [SocialMind_APP](https://github.com/norapfr/SocialMind_APP).
 
